@@ -16,7 +16,9 @@ dependencies:
   provider: ^6.0.1
   wakelock: ^0.6.0
   universal_html: 
-    git: https://github.com/UsamaSarwar/universal_html.git
+    git: 
+      url: https://github.com/UsamaSarwar/universal_html.git
+      ref: patch-1
   dio: ^4.0.6
   path_provider: ^2.0.11
 
